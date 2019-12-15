@@ -32,11 +32,11 @@
 
 <h1>5.Scope</h1>
 
-<b>a.Challenge:  </b><br>
-<b>Solution:  </b> 
+<b>a.Challenge: https://edabit.com/challenge/9tJ97HK3c4Koy3KsF </b><br>
+<b>Solution: https://prnt.sc/qb7dbr </b> 
   
-<b>b.Challenge:  </b><br>
-<b>Solution: </b> 
+<b>b.Challenge: https://edabit.com/challenge/6ALbTxgu8BZaa6YYN </b><br>
+<b>Solution: https://prnt.sc/q8ocnn </b> 
 
 <h1>6.Objects</h1>
 
@@ -48,9 +48,9 @@
 
 <h1>7.Classes</h1>
 
-<b>a.Challenge:  </b><br>
-<b>Solution:  </b> 
+<b>a.Challenge: https://edabit.com/challenge/s5Sz2ovKsvtGxNGgn </b><br>
+<b>Solution: https://prnt.sc/qb7emt </b> 
   
-<b>b.Challenge:</b><br>
-<b>Solution:</b> 
+<b>b.Challenge: https://edabit.com/challenge/Hgb38yhWGwJCMHbRQ </b><br>
+<b>Solution: https://prnt.sc/qb7rm3 </b> 
 
