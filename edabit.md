@@ -40,11 +40,11 @@
 
 <h1>6.Objects</h1>
 
-<b>a.Challenge:  </b><br>
-<b>Solution:  </b> 
+<b>a.Challenge: https://edabit.com/challenge/4aaBNPnFMc3bzR7JR </b><br>
+<b>Solution: https://prnt.sc/qb2fl6 </b> 
   
-<b>b.Challenge:  </b><br>
-<b>Solution: </b> 
+<b>b.Challenge: https://edabit.com/challenge/CaWc84kuPBzCMEcR3 </b><br>
+<b>Solution: https://prnt.sc/qb2x19 </b> 
 
 <h1>7.Classes</h1>
 
