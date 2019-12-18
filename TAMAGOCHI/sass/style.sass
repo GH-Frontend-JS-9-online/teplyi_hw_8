@@ -1,0 +1,70 @@
+@import url(../fonts/fonts.css)
+
+*
+    margin: 0
+    padding: 0
+
+body 
+    font-family: 'Open Sans'
+    background: #f4f4f4
+    text-align: center
+    box-sizing: border-box
+
+#wrapper
+    width: 100%
+    height: 100%
+    display: table
+    overflow: hidden
+    table-layout: fixed
+
+.list 
+    list-style-type: none
+    padding: 0
+    margin: 0
+
+// sections
+
+.game
+    background-image: url(../images/bg/1.jpg)
+    background-repeat: no-repeat
+    background-position: bottom
+    background-size: cover
+    height: 700px
+    border-radius: 5px
+    display: flex
+    align-items: center
+    justify-content: center
+
+.start
+    min-width: 500px
+    margin: 0 auto
+    background: #999b8cc9
+    border-radius: 5px
+
+    &__form
+        display: flex
+        justify-content: space-evenly
+        
+.actions    
+    position: relative
+    display: none
+
+    &__cat
+        // position: absolute
+        width: 200px
+        left: 90px
+        top: 80px
+
+    &__form
+        // position: absolute
+        bottom: -126px
+        right: 473px
+
+    &__btn
+        border-radius: 50%
+        width: 70px
+        height: 70px
+
+.actions-on
+   display: block
+
